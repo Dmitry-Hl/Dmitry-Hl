@@ -8,11 +8,11 @@
 
 ## About
 
-Marketing analytics & growth consultant with **10+ years** in digital marketing, CRM, retention, loyalty programs, performance marketing and business intelligence.
+Marketing executive and analytics consultant: **10+ years in digital marketing**, including **5+ years at C-level as CMO** — owning budgets, growth targets and the numbers behind them. Background across CRM, retention, loyalty programs, performance marketing and business intelligence.
 
 I build end-to-end systems that collect data, compute KPIs in an auditable layer, and use LLMs (Claude) to turn them into executive insights and recommended actions — delivered automatically, every week or month.
 
-I'm not a developer: I design the system, the data model and the methodology, and orchestrate tools and AI to build it. Every number is verified before anyone acts on it.
+I build the systems I needed as a CMO. I'm not a developer: I design the system, the data model and the methodology, and orchestrate tools and AI to build it. Every number is verified before anyone acts on it.
 
 ---
 
