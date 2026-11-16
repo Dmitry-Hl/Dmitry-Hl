@@ -1,65 +1,78 @@
 # Dmytro H.
 
-**Marketing Analytics | Growth | AI Automation**
+**AI-powered reporting & competitive intelligence systems for restaurant chains and multi-location businesses**
 
-> Turning data into decisions through analytics, automation and AI
+> I design data systems where the database does the math and AI explains what it means — so leadership gets decisions, not dashboards.
 
 ---
 
 ## About
 
-Marketing Analytics and Growth professional with 10+ years of experience in digital marketing, CRM, customer retention, loyalty programs, performance marketing and business intelligence.
+Marketing analytics & growth consultant with **10+ years** in digital marketing, CRM, retention, loyalty programs, performance marketing and business intelligence.
 
-I help businesses make faster and better decisions by designing KPI frameworks, reporting systems and analytics processes that connect data with action.
+I build end-to-end systems that collect data, compute KPIs in an auditable layer, and use LLMs (Claude) to turn them into executive insights and recommended actions — delivered automatically, every week or month.
 
-Currently focused on AI-powered reporting, automated insights generation and decision support systems.
-
----
-
-## Expertise
-
-* 📊 Marketing Analytics & Business Intelligence
-* 📈 Growth, Retention & Customer Lifecycle
-* 🤖 AI-Powered Reporting & Automation
-* 🎯 Performance Marketing & Attribution
-* 💬 CRM, Loyalty & Customer Engagement
-
----
-
-## Technology Stack
-
-| Area       | Tools                                                  |
-| ---------- | ------------------------------------------------------ |
-| Analytics  | GA4 · Firebase · Power BI · Looker Studio              |
-| Marketing  | Google Ads · Meta Ads · Apple Search Ads               |
-| CRM        | eSputnik · Loyalty Programs · Customer Segmentation    |
-| Data       | Google Sheets · QUERY · IMPORTRANGE · Windsor.ai       |
-| Automation | n8n · Workflow Automation                              |
-| AI         | Claude (Anthropic) · Prompt Engineering                |
-| Delivery   | Cloudflare Workers · Telegram Bot API · Web Dashboards |
+I'm not a developer: I design the system, the data model and the methodology, and orchestrate tools and AI to build it. Every number is verified before anyone acts on it.
 
 ---
 
 ## Featured Projects
 
-### 🤖 AI KPI Reporting System
+### 🎯 Market Radar — AI-Powered Competitive Intelligence
 
-AI-powered reporting system that transforms business KPIs into executive insights and actionable recommendations.
+An autonomous system that watches an entire restaurant market — **~20 brands, 3 cities, 12 data domains**: menus & prices, Google Maps reviews, ads (Google & Meta), social media, search demand, mobile apps, web performance, and **how often ChatGPT and Google AI recommend each brand**.
 
-**Workflow:** Data Sources → Data Processing → AI Analysis → Dashboard → Telegram Delivery
+`n8n` · `PostgreSQL` · `Claude API` · `Cloudflare Workers + Access` · `Astro + React`
 
-**Key Capabilities**
+* 20 production workflows on schedule, versioned snapshots, 50+ SQL metric marts
+* Web cabinet with 9 market sections, brand dossiers and an **AI analyst whose every number is verified against the database**
+* Built for a leading Ukrainian restaurant chain
 
-* Consolidates KPIs from multiple business systems
-* Performs automated trend and performance analysis
-* Generates executive summaries using LLMs
-* Publishes interactive dashboards
-* Delivers weekly reports automatically
-
-→ Project details coming soon
+→ *Case study opening soon*
 
 ---
 
-### Connect
+### 🤖 AI KPI Reporting System
 
-Interested in Marketing Analytics, Growth and AI-driven decision support systems.
+Every Monday, before anyone opens a laptop: data from **10+ business systems** (POS, CRM, GA4, 10 ad accounts) consolidated into one KPI mart, analyzed by Claude, published as a live dashboard and delivered to leadership in Telegram.
+
+`n8n` · `Google Sheets ETL` · `Claude Opus` · `Windsor.ai` · `Cloudflare Workers` · `Telegram`
+
+* Weekly reporting effort: from several hours to **zero**
+* AI interprets and prioritizes — it never generates numbers
+
+→ **[View case study](https://github.com/Dmitry-Hl/ai-kpi-reporting-system)**
+
+---
+
+## How I Build
+
+| Principle | In practice |
+|---|---|
+| **AI explains, the database counts** | Metrics live in SQL / formulas, reviewable and recomputable; LLMs only interpret |
+| **Every average comes with its *n*** | A mean over 5 items and over 500 are different claims |
+| **Unattended by design** | Schedules, error alerts to Telegram, tested backups and restore |
+| **Verify against the source** | Regular audits of every data feed against the original platform |
+
+---
+
+## Technology Stack
+
+| Area | Tools |
+|---|---|
+| Analytics & BI | GA4 · Firebase · Power BI · Looker Studio |
+| Data & storage | PostgreSQL · SQL marts · Google Sheets (QUERY · IMPORTRANGE) |
+| Data acquisition | DataForSEO · Apify · Windsor.ai · Google CrUX / PageSpeed API |
+| Marketing | Google Ads · Meta Ads · Apple Search Ads |
+| CRM & retention | eSputnik · Loyalty programs · Customer segmentation |
+| Automation | n8n (self-hosted, Docker) |
+| AI | Claude (Anthropic API) · LLM output contracts & verification |
+| Delivery | Cloudflare Workers · KV · Access · Telegram Bot API · Astro + React |
+
+---
+
+## Connect
+
+Open to consulting on **AI reporting, KPI systems and competitive intelligence** — for restaurant chains, retail and other multi-location businesses.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro_H.-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-glomozda)
